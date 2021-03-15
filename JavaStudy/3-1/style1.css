@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header{
+  background-color: #141f40;
+  height:100px;
+  width:400px;
+ 
+}
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main-left{
+ 
+  background-color: #80bfa8;
+  height: 250px;
+  width: 150px;
+  float: left;
+}
+.main-right{
+  
+  background-color: #8c2727;
+  height: 250px;
+  width: 250px;
+  float: left;
+  
+}
+.footer{
+  
+  background-color: #d98d30;
+  width:400px;
+  height: 100px;
+}
