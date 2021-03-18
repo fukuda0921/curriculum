@@ -1,7 +1,5 @@
 package study;
 
-import jdk.jfr.internal.PrivateAccess;
-
 /**
  *
  * 本課題では、継承・オーバーロードメソッドの基本的な使い方を学んでいきましょう。
@@ -16,9 +14,10 @@ public class Main {
     
         // ③ Taskクラスのインスタンスを生成し、「doTask()」メソッドを呼び出しなさい。
          Task task = new Task();
-         Private atatic doTask(10,20,30){
+         task.doTask();
+         
         	 
          }
-    }
+    
 
 }
