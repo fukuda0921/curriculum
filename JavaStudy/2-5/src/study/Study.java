@@ -35,7 +35,8 @@ public class Study {
 
         // ② 以下の「shopMap.put(shohinList.get(1), 180);」の処理について、コメントを記述してください。
         /*
-         * [ここへ記述]
+         * [shohinListの１番目180とうい値を取り出して、shopMapへと要素を追加してます]
+         *
          *
          */
         LinkedHashMap<String, Integer> shopMap = new LinkedHashMap<String, Integer>();
