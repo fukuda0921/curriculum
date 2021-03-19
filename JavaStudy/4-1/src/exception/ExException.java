@@ -109,7 +109,6 @@ public class ExException {
     private static void func() throws NullPointerException{
     	throw new NullPointerException(CONST_MSG_NULLPO);
     	
-    	
     }
     	
     
