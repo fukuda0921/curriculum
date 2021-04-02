@@ -135,7 +135,7 @@
                prefix="localhost_access_log." suffix=".txt" pattern="common" resolveHosts="false"/>
         -->
 
-      <Context docBase="4-2" path="/4-2" reloadable="false" source="org.eclipse.jst.jee.server:4-2"/></Host>
+      <Context docBase="4-2" path="/4-2" reloadable="false" source="org.eclipse.jst.jee.server:4-2"/><Context docBase="Check3" path="/Check3" reloadable="false" source="org.eclipse.jst.jee.server:Check3"/></Host>
     </Engine>
   </Service>
 </Server>
