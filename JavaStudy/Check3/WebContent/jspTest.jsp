@@ -5,10 +5,26 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+
 </head>
 <body>
-
-<!-- name、idの入力エリアを作成しなさい -->
-
+<%@ include file="header.jsp"%>
+<div class = "main">
+ <table>
+  <tr>
+    <th>name</th>
+	<th>
+	  <input type="text" name="name" id="namae"><br>
+	</th>
+  </tr>
+  <tr>
+    <th>id</th>
+	<th>
+	  <input type="text" name="name" id="namae"><br>
+	</th>
+  </tr>
+ </table>
+</div>
+<%@ include file="footer.jsp"%>
 </body>
 </html>

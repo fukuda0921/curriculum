@@ -4,17 +4,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" href="style.css">
 <title>Insert title here</title>
+<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-
-<!-- フッターを作成 -->
-<div class="footer">
- <div class="footer-area">
-  <div class="fotter-text">hoge.Inc</div>
- </div>
-</div>
-
+<footer>
+  <div class = "footer">
+    <label>
+      hoge.Inc
+    </label>
+  </div>
+</footer>
 </body>
 </html>
