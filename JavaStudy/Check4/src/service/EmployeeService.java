@@ -22,7 +22,7 @@ public class EmployeeService {
  /** ・JDMC接続先情報 */
  private static final String JDBC_CONNECTION = "jdbc:postgresql://localhost:5432/Employee";
  /** ・ユーザー名 */
- private static final String USER = "fukudamitsuhiro";
+ private static final String USER = "Fukuda";
  /** ・パスワード */
  private static final String PASS = "Fukuda0921";
  /** ・タイムフォーマット */
