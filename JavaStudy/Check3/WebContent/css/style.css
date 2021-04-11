@@ -1,23 +1,28 @@
 @charset "UTF-8";
 .header{
-	background-color: gray;
-	display:flex;
+ background-color: gray;
+ font-size: 10px;
+ padding: 10px;
+ color: white;
 }
 .header-right{
-	line-height:44px;
 	font-size: 10px;
+    display: inline-block;
+    padding: 10px;
+    color: black;
 }
-
 .main{
 	padding-top: 50px;
     padding-bottom: 50px;
 }
 .footer{
 	background-color: gray;
+	padding: 10px;
+    color: white;
 }
-label{
+.label{
 	display: inline-block;
 	padding: 10px;
 	color: white;
-
+    font-size: 10px;
 }
