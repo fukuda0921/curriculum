@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+    <category expanded="true" name="カテゴリーなし">
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="2-1"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="4-2"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Check"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ExException"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (2)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (3)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Study"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Study (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Study (2)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="localhost の Tomcat6 (Java6)"/>
+    </category>
+</runner>

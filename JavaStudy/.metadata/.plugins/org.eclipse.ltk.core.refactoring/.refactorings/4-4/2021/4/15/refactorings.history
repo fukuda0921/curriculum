@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;postgresql-42.2.19.jar&apos; to &apos;lib&apos;&#x0A;- 元のプロジェクト: &apos;4-4&apos;&#x0A;- 宛先要素: &apos;lib&apos;&#x0A;- オリジナル要素: &apos;postgresql-42.2.19.jar&apos;&#x0A;- リファクタリングされた要素の参照を更新" description="ファイルを移動する" element1="lib/postgresql-42.2.19.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1617893520865" target="/Check4/lib" units="0" version="1.0"/>
+</session>
